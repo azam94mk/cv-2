@@ -1,0 +1,10 @@
+selector {property:value;}
+example-> h1{color: red;}
+/*
+selector is the "Who" do you want to modify(style)
+property is the "what" do you want to change about it(background color,
+hexcolor or its poistion?)
+value is the "how" do you want to change the background color(do you
+want it to be blue, or red)
+
+*/
